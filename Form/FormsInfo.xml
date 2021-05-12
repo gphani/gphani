@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FormInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IncludeHeader>false</IncludeHeader>
+  <IncludeGlobalVariables>false</IncludeGlobalVariables>
+  <IncludeSecurityTokens>false</IncludeSecurityTokens>
+  <IncludeNavigation>false</IncludeNavigation>
+  <IncludeTheme>false</IncludeTheme>
+  <IncludeWebServices>false</IncludeWebServices>
+  <IncludeBusinessRules>false</IncludeBusinessRules>
+  <IncludeEntities>false</IncludeEntities>
+  <IncludeStaticDataLists>false</IncludeStaticDataLists>
+  <IncludeSecurityRoles>false</IncludeSecurityRoles>
+  <IncludeRoleMembers>false</IncludeRoleMembers>
+  <IncludeScanProfiles>false</IncludeScanProfiles>
+  <Forms>
+    <FormIdentity>
+      <Id>0D7BA7A83F824BB4AFAACA941384D0C1</Id>
+      <AutomaticallyPopulate>false</AutomaticallyPopulate>
+      <Name>1form</Name>
+      <Version>4</Version>
+    </FormIdentity>
+  </Forms>
+  <HeaderForms />
+  <NavigationMenus />
+  <SecurityTokens />
+  <SecurityRoles />
+  <BusinessRules />
+  <CustomServices />
+  <CustomServiceGroups />
+  <Categories />
+  <Entities />
+  <StaticLists />
+  <WebServicesXml>&lt;webservices&gt;&lt;/webservices&gt;</WebServicesXml>
+  <OAuthServersXml>&lt;oauthservers&gt;&lt;/oauthservers&gt;</OAuthServersXml>
+  <ScanVrsProfiles />
+  <ProductDatabaseVersion>7.10.0.0.0</ProductDatabaseVersion>
+  <DataModels />
+</FormInfo>
