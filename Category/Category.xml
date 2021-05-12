@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfCategory xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Category>
+    <Identity>
+      <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+      <AutomaticallyPopulate>true</AutomaticallyPopulate>
+      <Name>Default Category</Name>
+    </Identity>
+    <Description>Default Category</Description>
+    <ResourceAccessList>
+      <ResourceAccess>
+        <ResourceIdentity>
+          <Id>3A6B3531C4A94AB481586701D94FC318</Id>
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Name>Administrators</Name>
+          <ResourceType>GroupOfWorkers</ResourceType>
+          <EmailAddress />
+          <UserId />
+          <ManagerialLevel>0</ManagerialLevel>
+        </ResourceIdentity>
+        <AccessType>MaintenanceAccess</AccessType>
+        <PermissionType>FullControl</PermissionType>
+      </ResourceAccess>
+      <ResourceAccess>
+        <ResourceIdentity>
+          <Id>E3F09A384CF34AA98C1DC030A9FE670A</Id>
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Name>Device Users</Name>
+          <ResourceType>GroupOfWorkers</ResourceType>
+          <EmailAddress />
+          <UserId />
+          <ManagerialLevel>0</ManagerialLevel>
+        </ResourceIdentity>
+        <AccessType>MaintenanceAccess</AccessType>
+        <PermissionType>FullControl</PermissionType>
+      </ResourceAccess>
+      <ResourceAccess>
+        <ResourceIdentity>
+          <Id>E7E11DA233B643C883814ADAAA11C0E1</Id>
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Name>Designers</Name>
+          <ResourceType>GroupOfWorkers</ResourceType>
+          <EmailAddress />
+          <UserId />
+          <ManagerialLevel>0</ManagerialLevel>
+        </ResourceIdentity>
+        <AccessType>MaintenanceAccess</AccessType>
+        <PermissionType>FullControl</PermissionType>
+      </ResourceAccess>
+    </ResourceAccessList>
+    <LastModifiedDate>2021-02-18T13:55:00</LastModifiedDate>
+    <LastModifiedUser>7DF43CCDF24611D2804B00104B71BD10</LastModifiedUser>
+    <LastModifiedUserName>TotalAgility</LastModifiedUserName>
+  </Category>
+</ArrayOfCategory>
